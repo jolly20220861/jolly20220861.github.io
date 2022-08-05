@@ -1,5 +1,5 @@
 # Jolly's Homepage
-#### Bookmark this to keep an eye on my learning and progress. Join me in my Software Development journey.
+
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 ## Week 1: **Introduction**
