@@ -14,14 +14,14 @@ It is a good way to understading how Object-Oriented_Programming **(OOP)** Pytho
 
 ### What are some of the programming principles that you have discovered?
 Below are some of the programming principles that I have discovered yet needs to be fully understood.
-- [ ] **DRY (Don't Repeat Yourself)** - don't use duplicate code, instead use **_Abstraction_**
+1. **DRY (Don't Repeat Yourself)** - don't use duplicate code, instead use **_Abstraction_**
      ** _It’s important not to abuse it, duplication is not for code, but for functionality._**
-- [ ] **Open CLosed Design Principle** - “Classes, methods, or functions should be Open for extension (new functionality) and Closed for modification.”
+2. **Open Closed Design Principle** - “Classes, methods, or functions should be Open for extension (new functionality) and Closed for modification.”
       **_The key benefit of this design principle is that already tried and tested code is not touched which means they won’t break._**
-- [ ] **Encapsulate What CHanges* - the only constant thing in this world is _change_ they say, therefore, encapsulate the code you expect or suspect to be changed in the future. **_The benefit of this OOP Design principle is that It’s easy to test and maintain proper encapsulated code._**
-- [ ] **Single Responsibility Principle (SRP)** - there should not be more than one reason for a class to change, or a level should always handle single functionality.
+3. **Encapsulate What CHanges** - the only constant thing in this world is _change_ they say, therefore, encapsulate the code you expect or suspect to be changed in the future. **_The benefit of this OOP Design principle is that It’s easy to test and maintain proper encapsulated code._**
+4. **Single Responsibility Principle (SRP)** - there should not be more than one reason for a class to change, or a level should always handle single functionality.
      **_The key benefit of this principle is that it reduces coupling between the individual component of the software and Code._**
-- [ ] **Liskov Substitution Principle (LSP)** - Tmethods or functions which use superclass type must be able to work with the object of subclass without any issue.
+5. **Liskov Substitution Principle (LSP)** - Tmethods or functions which use superclass type must be able to work with the object of subclass without any issue.
       **_If a class has more functionality than subclass might not support some of the functionality and does violate LSP._**
       
 ### Can you share your favourite Scratch project that you have made or remixed?
