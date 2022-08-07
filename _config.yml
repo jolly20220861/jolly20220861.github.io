@@ -6,3 +6,7 @@ Permalink: https://github.com/jolly20220861/jolly20220861.github.io/blob/main/ab
 Page: contact
 ---
 <h2>{{ page.Contact }}</h2>
+---
+Page: Week2
+---
+<h2>{{ page.Week2 }}</h2>
