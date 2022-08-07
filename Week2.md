@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Journals](https://jolly20220861.github.io/)
+#### [Homepage](https://jolly20220861.github.io/) |[About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Journals](https://jolly20220861.github.io/)
 
 
 ## Week 2: Research Repository
