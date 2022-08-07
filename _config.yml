@@ -10,3 +10,7 @@ Page: Week1
 Page: Week2
 ---
 <h2>{{ page.Week2 }}</h2>
+---
+Page: Codes
+---
+<h2>{{ page.Codes }}</h2>
