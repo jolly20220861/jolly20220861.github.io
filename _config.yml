@@ -3,9 +3,9 @@ Title: Jolly's Homepage
 Description: Bookmark this to keep an eye on my learning and progress. Join me in my Software Development journey.
 Permalink: https://github.com/jolly20220861/jolly20220861.github.io/blob/main/about.md/
 ---
-Page: contact
+Page: Week1
 ---
-<h2>{{ page.Contact }}</h2>
+<h2>{{ page.Week1 }}</h2>
 ---
 Page: Week2
 ---
