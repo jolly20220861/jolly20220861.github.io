@@ -1,5 +1,5 @@
 ## Week 1: **Introduction**
-### What is ![Scratch](https://www.fulwelljunior.co.uk/news/2021-12-14-y3-coding-club-success)?
+### What is **Scratch**
 **Scratch.mit** is an online programming language and community created by MIT Media Lab to help young people and beginners in programming to have a good jumpstart.
 We used it on our first day to have a fun introduction with the activity called "Hello World".
 
