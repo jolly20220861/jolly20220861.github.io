@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://github.com/jolly20220861/jolly20220861.github.io/about.md) |        [Weekly Reflection Journal](https://jolly20220861.github.io/)
+#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) |  [Weekly Reflection Journal](https://jolly20220861.github.io/)
 
 # pǝs∩ sǝpoƆ
 
