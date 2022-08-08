@@ -10,6 +10,5 @@ My Software Development memorabilia; is intended to aid my learning journey and 
 
 
 
-##
+
 #### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Weekly Reflective Journal](https://jolly20220861.github.io/journals)
-##
