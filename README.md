@@ -1,6 +1,6 @@
-# 𝓙𝓸𝓵𝓵𝔂'𝓼 𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮 ![github](https://user-images.githubusercontent.com/110364984/183364813-81904001-38d3-4f29-9378-a600f4e0581d.png)
+## 𝓙𝓸𝓵𝓵𝔂'𝓼 𝓗𝓸𝓶𝓮𝓹𝓪𝓰𝓮 ![github](https://user-images.githubusercontent.com/110364984/183364813-81904001-38d3-4f29-9378-a600f4e0581d.png)
 
-I used to say I'm too old for school but life seems so boring doing the same routine. My heart leads me back to where I am passionate about; not programming, not computers but what lies within; discovery and understanding. I realised that, as we age, we need to continue to improve and develop ourselves. Technology is the future; let's not allow it to take over us, instead,  let's progress together with it. No matter how old you get, never stop learning something new. Be a student of life.
+_I used to say I'm too old for school but life seems so boring doing the same routine. My heart leads me back to where I am passionate about; not programming, not computers but what lies within; discovery and understanding. I realised that, as we age, we need to continue to improve and develop ourselves. Technology is the future; let's not allow it to take over us, instead,  let's progress together with it. No matter how old you get, never stop learning something new. Be a student of life._
 
 
 ## [Ⓐⓑⓞⓤⓣ](https://jolly20220861.github.io/about)
