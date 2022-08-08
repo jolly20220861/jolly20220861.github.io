@@ -14,3 +14,7 @@ Page: Week2
 Page: Codes
 ---
 <h2>{{ page.Codes }}</h2>
+---
+Page: journals
+---
+<h2>{{ page.jouornals }}</h2>
