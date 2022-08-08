@@ -14,3 +14,10 @@
 **REPOSITORY** - a project or folder ; a place where your project is kept.
 
 **COMMIT** - save your file in git; apply the changes you made
+
+
+
+
+##
+#### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Weekly Reflective Journal](https://jolly20220861.github.io/journals)
+##
