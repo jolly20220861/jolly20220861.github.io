@@ -25,10 +25,11 @@ Below are some of the programming principles that I have discovered yet need to 
       **_If a class has more functionality than subclass might not support some of the functionality and does violate LSP._**
       
 ### Can you share your favourite Scratch project that you have made or remixed?
+I am more than happy to share my first-ever project. Hope you'll like it.
 <br>
 <iframe src="https://scratch.mit.edu/projects/718084602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <br>
-I am more than happy to share my first-ever project. Check out my [Hello World in Scratch](https://scratch.mit.edu/projects/718084602).
+Project is not showing? Please click the link. [Hello World in Scratch](https://scratch.mit.edu/projects/718084602).
 
 
 ###### Reference:
