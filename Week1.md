@@ -36,4 +36,4 @@ Project is not showing? Please click the link. [Hello World in Scratch](https://
 Programming Principles from [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
 
 
-#### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Weekly Reflective Journal](https://jolly20220861.github.io/journals)
+#### [Week 2](jolly20220861.github.io/Week2)   | [Week 3](https://jolly20220861.github.io/Week3)   |
