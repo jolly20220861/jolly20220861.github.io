@@ -39,9 +39,9 @@ _*All you need is the desire and the willingness to learn_*
 
 
 ## BUILT-IN DATA TYPES
-|**CATEGORY      | **NAME**       |**DESCRIPTION|
+|**CATEGORY**    | **NAME**       |**DESCRIPTION**|
 |----------------|:---------------|:------------|
-|None            | None           | It is a **_null_** object|
+|**None**        | None           | It is a **_null_** object|
 |**Numeric**     | int            | This is an **_integer_** dta type.|
 |                | float          | This data type can store a **_floating-point_** number (ie. 1.5)|
 |                | complex        | It stores **complex** number; written in the form , **_x+yj_**, where x is the real part and y is the imaginary part|
@@ -54,5 +54,12 @@ _*All you need is the desire and the willingness to learn_*
 |                | set            | a **_mutable_** (can be changed) and **_unordered_** collection of unique items.|
 |                | frozenset      | collection of unique items that are **_immutable_** (unchangeable).
 
-<br>
 
+## Phyton Data Types
+
+|**Example**     |**Data Type**|
+|---             |:------------|
+|x = str("Hello World")|str|
+|x = int(20)|int|
+|x = float(20.5)|float|
+|x = complex(1j)|complex|
