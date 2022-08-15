@@ -5,7 +5,7 @@ My Software Development memorabilia; is intended to aid my learning journey and 
 
 ## [Week 1: Introduction](https://jolly20220861.github.io/Week1)
 ## [Week 2: Research Repository](https://jolly20220861.github.io/Week2)
-
+## [Week 3: Learning Python](https://jolly20220861.github.io/Wee3)
 
 
 
