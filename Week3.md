@@ -42,4 +42,14 @@ _*All you need is the desire and the willingness to learn_*
 |**CATEGORY      | **NAME**       |**DESCRIPTION|
 |----------------|:---------------|:------------|
 |None            | None           | It is a **_null**_ object|
-|Numeric         | int            | This is an **_integer**_ dta type.|
+|**Numeric**     | int            | This is an **_integer**_ dta type.|
+|                | float          | This data type can store a **_floating-point**_ number (ie. 1.5)|
+|                | complex        | It stores **complex** number; written in the form , **_x+yj**_, where x is the real part and y is the imaginary part|
+|                | bool           | a **Boolean** type which returns to **_true**_ or **_False**_
+|**Sequences**   | str            | use to store a string of **_alpha**_ characters
+|                | liXst          | can store a list of **_arbitrary objects**_.|
+|                | Tuple          | can store a group of arbitrary items **_in order**_ and **_unchangeable**_.
+|                | range          | use to create a **_range of integers**_; returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.|
+|**Mapping**     | dict           | a dictionary data type that stores data in **_key:value pairs**_.|
+|                | set            | a **_mutable**_ (can be changed) and **_unordered**_ collection of unique items.|
+                 
