@@ -2,13 +2,13 @@
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
-## Week 3: Learning Python
+## Week 3: Python
+### What is?
 ![Python](https://user-images.githubusercontent.com/110364984/184584200-b4419d95-5331-4654-89d5-cacacde941f8.jpg)
 
-### What is Python?
 Here is a definition from the Python website:
-"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics."
-Python has been around for 25 years and it has become the language of choice for many large organisations, including Google, Yahoo, and IBM because of its power, simplicity, and complete object model. In addition to other paradigms, Python also supports both procedural and object-oriented programming approaches.
+"_**Python** is an interpreted, object-oriented, high-level programming language with dynamic semantics._"
+It has been around for 25 years and it has become the language of choice for many large organisations, including Google, Yahoo, and IBM because of its power, simplicity, and complete object model. In addition to other paradigms, Python also supports both procedural and object-oriented programming approaches.
 
 ### Reasons to Learn Python?
 * Easy to read and learn.
