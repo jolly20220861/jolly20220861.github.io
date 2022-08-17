@@ -42,6 +42,7 @@ _*All you need is the desire and the willingness to learn_*
 
 |**CATEGORY**     | **NAME**       |**DESCRIPTION**|
 |:---             |:---            |:---           |
+|                 |                |               |
 |**None**         | None           | It is a **_null_** object|
 |**Numeric**      | int            | This is an **_integer_** dta type.|
 |                 | float          | This data type can store a **_floating-point_** number (ie. 1.5)|
