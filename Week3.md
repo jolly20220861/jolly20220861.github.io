@@ -40,7 +40,7 @@ _*All you need is the desire and the willingness to learn_*
 
 ## BUILT-IN DATA TYPES
 |**CATEGORY**    | **NAME**       |**DESCRIPTION**|
-|----------------|:---------------|:------------|
+|---             |:---            |:---           |
 |**None**        | None           | It is a **_null_** object|
 |**Numeric**     | int            | This is an **_integer_** dta type.|
 |                | float          | This data type can store a **_floating-point_** number (ie. 1.5)|
@@ -58,7 +58,7 @@ _*All you need is the desire and the willingness to learn_*
 ## Phyton Data Types
 
 |**Example**     |**Data Type**|
-|---             |:------------|
+|:---             |:------------|
 |x = str("Hello World")|str|
 |x = int(20)|int|
 |x = float(20.5)|float|
