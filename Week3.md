@@ -39,6 +39,7 @@ _*All you need is the desire and the willingness to learn_*
 
 
 ## BUILT-IN DATA TYPES
+
 |**CATEGORY**    | **NAME**       |**DESCRIPTION**|
 |---             |:---            |:---           |
 |**None**        | None           | It is a **_null_** object|
@@ -58,7 +59,7 @@ _*All you need is the desire and the willingness to learn_*
 ## Phyton Data Types
 
 |**Example**     |**Data Type**|
-|:---             |:------------|
+|:---            |:------------|
 |x = str("Hello World")|str|
 |x = int(20)|int|
 |x = float(20.5)|float|
