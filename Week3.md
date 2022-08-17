@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Weekly Reflective 🅹🅾🆄🆁🅽🅰🅻](https://jolly20220861.github.io/journals)
+#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
@@ -75,3 +75,7 @@ _*All you need is the desire and the willingness to learn_*
 |x = byte(5)|bytes|
 |x = bytearray(5)|bytearray|
 |x = memoryview(bytes(5))|memoryview|
+
+<br>
+
+#### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Research Repository](https://jolly20220861.github.io/journals)
