@@ -1,8 +1,8 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Weekly Reflective 🅹🅾🆄🆁🅽🅰🅻](https://jolly20220861.github.io/journals)
+#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
-## Week 1: **Introduction**
+## Week 1: **Introduction with Scratch**
 ### What is ![scratch2](https://user-images.githubusercontent.com/110364984/183288625-2ac3bef0-b260-4179-b07d-f7016ae0540a.jpg)
 
 **Scratch.mit** is an online programming language and community created by MIT Media Lab to help young people and beginners in programming to have a good jumpstart. We used it on our first day to have a fun introduction with the activity called “Hello World”.
@@ -36,4 +36,4 @@ Project is not showing? Please click the link. [Hello World in Scratch](https://
 Programming Principles from [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
 
 
-#### [Week 2](jolly20220861.github.io/Week2)   | [Week 3](https://jolly20220861.github.io/Week3)   |
+#### [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   |
