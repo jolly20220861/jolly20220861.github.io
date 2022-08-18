@@ -10,7 +10,7 @@ Here's the list of the codes I used along the way.
 _**Week 1** represents the name of the page that you'd like to create_
 <br>
 #### Python Fundamentals Activity
-The objective of this task is to practice coding basic Python language syntax and to apply the syntax rules to employ good coding habits for the following fundamnetals:
+The objective of this task is to practice coding basic Python language syntax and to apply the syntax rules to employ good coding habits for the following fundamentals:
 * Variables
 * User inputs
 * Arithmetic operations
