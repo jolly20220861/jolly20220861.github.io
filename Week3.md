@@ -78,4 +78,4 @@ _*All you need is the desire and the willingness to learn_*
 
 <br>
 
-#### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Research Repository](https://jolly20220861.github.io/journals)
+###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 2: GitHub](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
