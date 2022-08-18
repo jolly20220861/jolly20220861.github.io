@@ -19,4 +19,4 @@
 
 
 
-###### [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
+###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
