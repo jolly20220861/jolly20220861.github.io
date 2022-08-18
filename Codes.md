@@ -42,9 +42,10 @@ _If the **exit()** syntax is removed, the prompt to exit will not appear._
 _Convert a month name to a number of days._
 
 **Your program should look as follows:**
+<br>
 
-  Input the name of the month: February
-  No. of days: 28/29 days
+      Input the name of the month: February
+      No. of days: 28/29 days
   
 **Answer Code**
 
