@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/) |[About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Weekly Reflective 🅹🅾🆄🆁🅽🅰🅻](https://jolly20220861.github.io/journals)
+#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) | [Codes Used](https://jolly20220861.github.io/Codes) | [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
@@ -19,4 +19,4 @@
 
 
 
-#### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Research Repository](https://jolly20220861.github.io/journals)
+###### [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
