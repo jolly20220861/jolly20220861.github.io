@@ -1,4 +1,4 @@
-#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) |  [Weekly Reflection 🅹🅾🆄🆁🅽🅰🅻](https://jolly20220861.github.io/journals)
+#### [Homepage](https://jolly20220861.github.io/)   |  [About](https://jolly20220861.github.io/about) |  [Research 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈](https://jolly20220861.github.io/journals)
 
 # pǝs∩ sǝpoƆ
 
@@ -19,7 +19,37 @@ The objective of this task is to practice coding basic Python language syntax an
 * Loops
 <br>
 
-**Activity 1:**
+**Activity 1**
+_Calculate a dog's age in dog years._
+
+**Note:** For the first two years, a dog year is equal to 10.5 human years.  After that, each dog year equals 4 human years.
+<br>
+
+**Your program should look as follows:**
+<br>
+
+      Input a dog's age in human years: 15
+      The dog's age in dog years is  73
+     
+**Answer Code**
+
+![image](https://user-images.githubusercontent.com/110364984/185266425-fc261818-6a30-4884-be31-851b939658aa.png)
+<br>
+
+_If the **exit()** syntax is removed, the prompt to exit will not appear._
+
+**Activity 2**
+_Convert a month name to a number of days._
+
+**Your program should look as follows:**
+
+  Input the name of the month: February
+  No. of days: 28/29 days
+  
+**Answer Code**
 
 
-##### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Weekly Reflective Journal](https://jolly20220861.github.io/journals)
+
+
+
+##### [Homepage](jolly20220861.github.io)   | [About](https://jolly20220861.github.io/about)   | [Codes Used](https://jolly20220861.github.io/Codes)   | [Research Repository](https://jolly20220861.github.io/journals)
