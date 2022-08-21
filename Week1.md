@@ -31,9 +31,19 @@ I am more than happy to share my first-ever project. Hope you'll like it.
 <br>
 Project is not showing? Please click the link. [Hello World in Scratch](https://scratch.mit.edu/projects/718084602).
 
+<br>
+
+## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
+
+The first day of school was both exciting and nerve-wracking.  I am excited because it's the start of a new learning adventure, meeting new people and making friends, but at the same time, nervous because I don't have any background about the course I'm taking. Will I be able to make it? Is it going to be difficult?
+
+<br>
+
+Encountering Scratch for the first time is a bit challenging. I followed the instructions and tried to work my way. It's funny and a shame when I asked my kids if they know what Scratch is all about to which they all said yes.  They explained o me that it's a site used by those who want to learn about programming. My second son showed it to me and explained some basic navigation. I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to having the next session.
+<br>
 
 ###### Reference:
 Programming Principles from [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
 
 
-#### [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
+###### [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
