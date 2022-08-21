@@ -2,7 +2,7 @@
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
-## Week 2: Research Repository
+## Week 2: GitHub
 
 ### What is **Git**?
 **_Git_** is a widely used free and open source version control. Most programmers interact with git on a daily basis.
