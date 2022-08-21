@@ -15,6 +15,10 @@
 **REPOSITORY** - a project or folder ; a place where your project is kept.
 
 **COMMIT** - save your file in git; apply the changes you made
+
+**FORK** - is a copy of the repository that will allow you to make changes to a project without affecting the original one.
+
+**PULL** - fetching updates or submit the changes made to the original project or repository 
 <br>
 
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
