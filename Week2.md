@@ -15,8 +15,15 @@
 **REPOSITORY** - a project or folder ; a place where your project is kept.
 
 **COMMIT** - save your file in git; apply the changes you made
+<br>
 
+## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
 
+The first day is testing the water while the second day is dipping slowly into the water.  A new platform to learn! I was able to follow the instructions on how to use GitHub but at the back of my mind, what is this!?! What will I write? How will this be useful for me? Am I gonna drown soon in the shallow level of water?
 
+<br>
+I read the module and did my own research. I was able to create my repository in a website form. I'm hooked! This is what I like! From plain page to a more website-like one.  I was able to make different pages through links and was able to consolidate my thoughts. Hmmm... I can try to move further more and see how deep I can go....
+
+<br>
 
 ###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Art vs Programming](https://jolly20220861.github.io/Week4)
