@@ -2,16 +2,22 @@
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
+## Week 4: Unexpect The Expected 
+
 ## Graph vs Programming
 
-## What is Graph?
+**What is Graph?**
+
 ![image](https://user-images.githubusercontent.com/110364984/187161542-08154a51-afee-47cf-855d-daff21dc1d69.png)
 
 As defned in Oxford dictionary, it is a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.
 
 In today's corporate world, graph is widely used by big companies such as Google, Netflix and Facebook to be abe to know their customers better and provide suggestions and offers based on the user's preferences and past purchases. This process is called _**Knowledge Graph**_; a machine readable **representation of knowledge domain**, which can be read and processed by human as well as by **machines**.
 
+**What is Video-graph?**
 
+
+**What is Programming?**
 
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
 
@@ -28,4 +34,4 @@ In spite of it all, I loved the activity as it gave me confirmation of my decisi
 
 
 
-###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 2: GitHub](https://jolly20220861.github.io/Week3)   | [Week 3: Python](https://jolly20220861.github.io/Week3)
+###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 2: GitHub](https://jolly20220861.github.io/Week3)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   |   [Week 5: Agile](https://jolly20220861.github.io/Week5)
