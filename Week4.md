@@ -4,6 +4,15 @@
 
 ## Graph vs Programming
 
+## What is Graph?
+![image](https://user-images.githubusercontent.com/110364984/187161542-08154a51-afee-47cf-855d-daff21dc1d69.png)
+
+As defned in Oxford dictionary, it is a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.
+
+In today's corporate world, graph is widely used by big companies such as Google, Netflix and Facebook to be abe to knoe their customers better to be able to provide suggestions and offers based on the user's preferences and past purchases. This process is called _**Knowledge Graph_**; a machine readable **representation of knowledge domain**, which can be read and processed by human as well as by **machines**.
+
+
+
 ## 🆁🅴🅵🅻🅴🅲🆃🅸🅾🅽:
 
 Time flies! It's already the 4th week. One month nearly passed. I am surviving, treading in the water. I am slowly getting the hang of it. I read continue to read the module and did more research. Now I am starting to understand, " or ' is used for string which is alpha characters. I've learned that indentation is important in Python because it indicates the block of code. I am starting to enjoy and at the same time rack my brain which often made me lost in thoughts.
