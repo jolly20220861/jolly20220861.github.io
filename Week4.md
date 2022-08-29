@@ -9,7 +9,7 @@
 
 As defned in Oxford dictionary, it is a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.
 
-In today's corporate world, graph is widely used by big companies such as Google, Netflix and Facebook to be abe to knoe their customers better to be able to provide suggestions and offers based on the user's preferences and past purchases. This process is called _**Knowledge Graph_**; a machine readable **representation of knowledge domain**, which can be read and processed by human as well as by **machines**.
+In today's corporate world, graph is widely used by big companies such as Google, Netflix and Facebook to be abe to know their customers better and provide suggestions and offers based on the user's preferences and past purchases. This process is called _**Knowledge Graph**_; a machine readable **representation of knowledge domain**, which can be read and processed by human as well as by **machines**.
 
 
 
