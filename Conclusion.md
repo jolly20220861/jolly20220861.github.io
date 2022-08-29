@@ -4,7 +4,7 @@
 
 ## Conclusion:
 
-### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+#### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
@@ -82,3 +82,4 @@
 
 <br>
 
+######  [Week 1: Scratch](https://jolly20220861.github.io/Week1)    |   [Week 2: GitHub](jolly20220861.github.io/Week2)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   | [Week 4: Unexpect The Expected](https://jolly20220861.github.io/Week4)   |  [Week 5: Agile](https://jolly20220861.github.io/Week5)   |  [Week 6: Python_Koans](https://jolly20220861.github.io/Week6)     
