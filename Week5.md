@@ -2,7 +2,7 @@
 
 # 🆆🅴🅴🅺🅻🆈 🆁🅴🅵🅻🅴🅲🆃🅸🆅🅴 🅹🅾🆄🆁🅽🅰🅻
 
-## Prototyping
+## Week 5: Agile
 
 ## What is Minimum Viable Product (MVP)?
 ![image](https://user-images.githubusercontent.com/110364984/187202603-9c153fac-9a00-4f2d-b3f2-204ac092a1e3.png)
@@ -26,4 +26,4 @@ The highight of the day is knowing that I am not way behind as my religious upda
 
 
 
-###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 2: GitHub](https://jolly20220861.github.io/Week3)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   |  [Week 4: Graph vs Programming](https://jolly20220861.github.io/Week4)
+###### [Week 1: Introduction with Scratch](jolly20220861.github.io/Week1)   | [Week 2: GitHub](https://jolly20220861.github.io/Week3)   | [Week 3: Python](https://jolly20220861.github.io/Week3)   |  [Week 4: Unexpect the Expected](https://jolly20220861.github.io/Week4)   |   [Week 6: Python_Koans](https://jolly20220861.github.io/Week6)
