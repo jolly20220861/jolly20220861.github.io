@@ -39,7 +39,13 @@ The first day of school was both exciting and nerve-wracking.  I am excited bec
 
 <br>
 
-Encountering Scratch for the first time is a bit challenging. I followed the instructions and tried to work my way. It's funny and a shame when I asked my kids if they know what Scratch is all about to which they all said yes.  They explained to me that it's a site used by those who want to learn about programming. My second son showed it to me and explained some basic navigation. I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to making it to the next session.
+Encountering Scratch for the first time is a bit challenging. I followed the instructions and tried to work my way. It's funny and a shame when I asked my kids if they know what Scratch is all about to which they all said yes.  They explained to me that it's a site used by those who want to learn about programming. My second son showed it to me and explained some basic navigation. He reminded and reiterated to me "_watch the tutorial_ to make it easy for me.
+
+#### Learning:
+
+To be able to copy the respondent's answer, set the variable and concatenate. I set the variable name = answer.  The tutorial showed how I can create a background which is easy as I only have to choose from the options provided.  I learned that you can add a sprite (character) to make an animated conversation which I tried. 
+
+I was able to make my first "Hello World" project.  I thought to myself, I can handle it so I looked forward to making it to the next session.
 <br>
 
 ###### Reference:
