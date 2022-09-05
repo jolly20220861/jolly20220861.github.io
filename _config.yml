@@ -2,6 +2,11 @@ theme: jekyll-theme-architect
 Title: Jolly's Homepage
 Description: Bookmark this site to keep an eye on my learning and progress. Join me in my Software Development adventure.
 Permalink: https://github.com/jolly20220861/jolly20220861.github.io/blob/main/about.md/
+
+github:
+  zip_url: http://jolly20220861.github.io/download.zip
+  another_url: pythIT.html
+
 ---
 Page: Week1
 ---
